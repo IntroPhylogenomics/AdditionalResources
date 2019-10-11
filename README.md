@@ -5,8 +5,11 @@
 Paul Lewis' 4-Part Phyloseminar Series
 
 [Part 1](https://youtu.be/1r4z0YJq580)
+
 [Part 2](https://youtu.be/UsLeY0wZr4Y)
+
 [Part 3](https://youtu.be/4PWlnNsfz90)
+
 [Part 4](https://youtu.be/TLtOS--YwkU)
 
 [Jeremy's Phyloseminar on Model Adequacy](https://youtu.be/TfkBuS5mvP8)
