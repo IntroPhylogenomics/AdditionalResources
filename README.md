@@ -26,6 +26,8 @@ Paul Lewis' 4-Part Phyloseminar Series
 
 [Jukes-Cantor Simulations](https://phyleauxsim.github.io/Jukes-Cantor/)
 
+[Single-Population Coalescent Simulations](https://phyleauxsim.github.io/coalescent/)
+
 ## Software
 
 [RevBayes](https://revbayes.github.io)
