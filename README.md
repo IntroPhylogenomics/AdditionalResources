@@ -14,7 +14,7 @@ Paul Lewis' 4-Part Phyloseminar Series
 
 [Jeremy's Phyloseminar on Model Adequacy](https://youtu.be/TfkBuS5mvP8)
 
-[Cécile Ane's Phyloseminar on Phylogenetic Networks](https://youtu.be/PF4j_JOQP0c)
+[Cécile Ané's Phyloseminar on Phylogenetic Networks](https://youtu.be/PF4j_JOQP0c)
 
 ## Books
 
